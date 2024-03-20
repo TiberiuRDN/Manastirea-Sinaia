@@ -19,7 +19,7 @@ with st.sidebar:
 selected_entry = backbone_dict[st.session_state['selected_language']]
 
 # Display the content
-st.image('/Users/tiberiuradan/Desktop/Isus_Pantokrator.png', use_column_width=True)
+st.image('Isus_Pantokrator.png', use_column_width=True)
 st.title(selected_entry['title'])
 st.write(selected_entry['intro'])
 if selected_entry['audio'] != 'None':
