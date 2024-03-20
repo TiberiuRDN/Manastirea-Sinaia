@@ -69,7 +69,7 @@ backbone = [{'language': 'RO',
            'replaced by a new neo-Byzantine-style painting in matte oil on a '
            'gilded background in imitation of mosaic, by the Dane Aage '
            'Exner.\n',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Sinaia_Project/Audio_Output/speech_Brian.mp3'},
+  'audio': 'speech_Brian.mp3'},
  {'language': 'DE',
   'title': 'Kloster Sinaia',
   'intro': '\n'
@@ -106,7 +106,7 @@ backbone = [{'language': 'RO',
            'Das Gemälde von Cătulescu wurde durch ein neues Gemälde des Dänen '
            'Aage Exner im neobyzantinischen Stil in mattem Öl auf vergoldetem '
            'Hintergrund ersetzt, das ein Mosaik nachahmt.\n',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Sinaia_Project/Audio_Output/speech_Vicki.mp3'},
+  'audio': 'speech_Vicki.mp3'},
  {'language': 'IT',
   'title': 'Monastero di Sinaia',
   'intro': '\n'
@@ -142,7 +142,7 @@ backbone = [{'language': 'RO',
            'fu sostituito da un nuovo dipinto in stile neobizantino a olio '
            'opaco su sfondo dorato a imitazione del mosaico, opera del danese '
            'Aage Exner.\n',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Sinaia_Project/Audio_Output/speech_Bianca.mp3'},
+  'audio': 'speech_Bianca.mp3'},
  {'language': 'FR',
   'title': 'Monastère de Sinaia',
   'intro': '\n'
@@ -179,7 +179,7 @@ backbone = [{'language': 'RO',
            'été remplacée par une nouvelle peinture de style néo-byzantin à '
            "l'huile mate sur fond doré à l'imitation de la mosaïque, réalisée "
            'par le Danois Aage Exner.\n',
-  'audio': '/Users/tiberiuradan/PycharmProjects/DataAnalysis/Sinaia_Project/Audio_Output/speech_Lea.mp3'}]
+  'audio': 'speech_Lea.mp3'}]
 
 
 # pprint(pprint(backbone, sort_dicts=False))
