@@ -1,5 +1,6 @@
 from Dictionary_Generator_Output import backbone
 import streamlit as st
+from streamlit_carousel import carousel
 
 # Convert the list of dictionaries to a language-keyed dictionary
 backbone_dict = {entry['language']: entry for entry in backbone}
@@ -18,8 +19,30 @@ with st.sidebar:
 # Access the selected entry directly
 selected_entry = backbone_dict[st.session_state['selected_language']]
 
+# Image Carousel
+
+test_items = [
+    dict( title= "" ,
+          text = "",
+          img="Isus_Pantokrator.png",
+          link = ""
+
+    ),
+    dict( title= "",
+          text = "",
+        img="Manastirea_Sinaia.jpg",
+          link = ""
+
+    ),
+    dict( title= "",
+          text = "",
+        img="Manastirea_Sinaia_1.jpg",
+          link = ""
+    ),
+]
+
 # Display the content
-st.image('Isus_Pantokrator.png', use_column_width=True)
+carousel(items=test_items, width=1.5)
 st.title(selected_entry['title'])
 st.write(selected_entry['intro'])
 if selected_entry['audio'] != 'None':
