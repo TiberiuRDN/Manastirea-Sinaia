@@ -54,7 +54,7 @@ test_items = [
 ]
 
 # Display the content
-carousel(items=test_items, width=1.5, height= 2)
+carousel(items=test_items, width=2)
 st.title(selected_entry['title'])
 st.write(selected_entry['intro'])
 if selected_entry['audio'] != 'None':
