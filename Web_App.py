@@ -39,6 +39,18 @@ test_items = [
         img="Manastirea_Sinaia_1.jpg",
           link = ""
     ),
+       dict( title= "",
+          text = "",
+        img="Ctitor.jpg",
+          link = "", 
+               dict( title= "",
+          text = "",
+        img="Obstea_Sinaia.jpg",
+          link = "",
+                       dict( title= "",
+          text = "",
+        img="Biserica_Veche.jpg",
+          link = ""
 ]
 
 # Display the content
