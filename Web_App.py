@@ -1,6 +1,6 @@
 from Dictionary_Generator_Output import backbone
 import streamlit as st
-from streamlit_carousel import carousel
+from streamlit-carousel import carousel
 
 # Convert the list of dictionaries to a language-keyed dictionary
 backbone_dict = {entry['language']: entry for entry in backbone}
