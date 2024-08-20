@@ -1,3 +1,2 @@
 streamlit	
-Dictionary_Generator_Output
 streamlit-carousel
