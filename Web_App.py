@@ -42,15 +42,15 @@ test_items = [
        dict( title= "",
           text = "",
         img="Ctitor.jpg",
-          link = "", 
+          link = ""), 
                dict( title= "",
           text = "",
         img="Obstea_Sinaia.jpg",
-          link = "",
+          link = ""),
                        dict( title= "",
           text = "",
         img="Biserica_Veche.jpg",
-          link = ""
+          link = "")
 ]
 
 # Display the content
