@@ -1,9 +1,3 @@
-streamlit-carousel
+Streamlit-carousel
 Streamlit	
 Dictionary_Generator_Output
-pandas
-plotly
-streamlit
-yfinance
-pandas-datareader
-prophet
