@@ -1,4 +1,7 @@
 streamlit	
 Dictionary_Generator_Output
 streamlit_carousel
-
+streamlit-carousel
+joblib
+numpy
+pandas
