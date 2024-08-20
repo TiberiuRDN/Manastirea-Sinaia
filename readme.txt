@@ -1,6 +1,7 @@
 Streamlit	
 Dictionary_Generator_Output
 Streamlit-carousel
+pip install python3.11
 Python Version: 3.11
 
 Required Libraries:
