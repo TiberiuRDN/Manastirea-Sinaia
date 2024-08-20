@@ -1,4 +1,4 @@
-streamlit_carousel
+streamlit-carousel
 Streamlit	
 Dictionary_Generator_Output
 pandas
