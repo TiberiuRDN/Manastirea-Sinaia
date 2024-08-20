@@ -29,6 +29,6 @@ if selected_entry['audio'] != 'None':
 
 
 
-# # QR code generation (you might want to move this to a more appropriate place in your code)
+# # QR code 
 # qr = qrcode.make('http://192.168.0.34:8501/')
 # qr.save('/Users/tiberiuradan/Desktop/QR/Demo.png')
