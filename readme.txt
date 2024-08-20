@@ -1,3 +1,4 @@
 Streamlit	
 Dictionary_Generator_Output
 Streamlit-carousel
+python3.11
