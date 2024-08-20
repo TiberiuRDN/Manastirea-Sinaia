@@ -1,10 +1,10 @@
-Streamlit	
-Dictionary_Generator_Output
-Streamlit-carousel
-pip install python3.11
 Python Version: 3.11
 
 Required Libraries:
-- numpy==1.21.0
-- pandas==1.3.0
-- requests==2.25.1
+- streamlit-carousel
+- other-library==version
+
+
+Streamlit	
+Dictionary_Generator_Output
+Streamlit-carousels
