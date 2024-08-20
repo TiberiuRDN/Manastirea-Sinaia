@@ -1,3 +1,3 @@
 Streamlit	
 Dictionary_Generator_Output
-Streamlit_carousel
+Streamlit-carousel
